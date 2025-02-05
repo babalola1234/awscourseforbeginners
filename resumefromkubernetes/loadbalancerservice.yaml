@@ -33,4 +33,4 @@ spec:
     spec:
       containers:
       - name: frontend-container
-        image: httpd
+        image: babs1234/custom-httpd:latest
